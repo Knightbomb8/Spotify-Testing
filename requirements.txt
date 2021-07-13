@@ -1,0 +1,7 @@
+spotipy==2.18.0
+python-decouple==3.4
+PyQt5==5.15.4
+qt-range-slider==0.2.3
+QtRangeSlider==0.1.5
+superqt==0.2.1
+numpy==1.21.0
